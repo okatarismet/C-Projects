@@ -1,5 +1,5 @@
 # C-Projects
 
-Every Folder includes a pdf and a report file which explains the purpose of the project
+We have done a lot of assignments about C in our college. Especially the 3rd and the 5th assignment was challenging.
 
 
