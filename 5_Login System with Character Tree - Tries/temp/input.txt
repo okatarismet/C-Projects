@@ -1,0 +1,83 @@
+-a oznur 212 
+
+-a cemil 007
+-a cemile 009
+
+-a ozge 612
+
+-a selim 001
+
+-a selma 100
+
+-a oznur 050
+
+-a cem 602
+
+-a ceme 234
+
+-a cemal 302
+
+-a cemilet 817
+
+-a cemilhan 235
+
+-a c 123
+
+-a t 8475290754
+
+-a tabancali 242
+
+-a tarhanaci 5435
+
+-a osman 837
+
+-a mahmut 1
+
+-a nane -1
+
+-a p 678
+
+-d tarhanaci
+
+-a i 472
+
+-l
+
+-s hakan
+
+-s sel
+
+-s ozge
+
+-s selam
+
+-q alaeddin 155
+
+-q seli 112
+
+-q selma 111
+
+-q cemal 302
+
+-q ozgen 6230
+
+-q nane 1
+
+-q nane -1
+
+-d nane
+-d yildiz
+
+-d i
+
+-d c
+
+-d cemilet
+
+-d cihan
+
+-d oz
+
+-d selim
+
+-l
